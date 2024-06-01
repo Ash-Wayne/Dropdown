@@ -1,8 +1,8 @@
 {
-	"name": "dropdown",
-	"version": "1.0.0",
+	"name": "@ash-wayne/dropdown",
+	"version": "1.0.1",
 	"description": "Provides capability for click-dropdowns and hover-dropdowns",
-	"main": "index.js",
+	"main": "src/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "webpack serve"
